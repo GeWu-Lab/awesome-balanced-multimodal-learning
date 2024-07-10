@@ -44,7 +44,7 @@ A curated list of balanced multimodal learning methods.
 
 **[ECCV-2024]**
 <br>
-[Diagnosing and Re-learning for Balanced Multi-modal Learning](#) 
+[Diagnosing and Re-learning for Balanced Multimodal Learning](#) 
 <br>
 **[Code](https://github.com/GeWu-Lab/Diagnosing_Relearning_ECCV2024)**
 
