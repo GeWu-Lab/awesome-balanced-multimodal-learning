@@ -55,6 +55,7 @@ A curated list of balanced multimodal learning methods.
 - [Learning to Balance the Learning Rates between Various Modalities via Adaptive Tracking Factor](https://ieeexplore.ieee.org/document/9503315) [IEEE Signal Processing Letters  2021]
 - [Audiovisual SlowFast Networks for Video Recognition](https://arxiv.org/abs/2001.08740) [arXiv 2020]
 - [Joint Audio-Visual Deepfake Detection](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhou_Joint_Audio-Visual_Deepfake_Detection_ICCV_2021_paper.pdf) [ICCV 2021]
+- [Delving into Deep Imbalanced Regression](https://arxiv.org/abs/2102.09554) \[ICML2021]
 - [Characterizing and Overcoming the Greedy Nature of Learning in Multi-modal Deep Neural Networks](https://proceedings.mlr.press/v162/wu22d/wu22d.pdf) [ICML 2022]
 - [MCL: A Contrastive Learning Method for Multimodal Data Fusion in Violence Detection](https://ieeexplore.ieee.org/document/9976192) [IEEE Signal Processing Letters 2022]
 - [On Uni-Modal Feature Learning in Supervised Multi-Modal Learning](https://proceedings.mlr.press/v202/du23e/du23e.pdf) [ICML 2023]
@@ -73,4 +74,5 @@ A curated list of balanced multimodal learning methods.
 - [Balanced Multi-modal Federated Learning via Cross-Modal Infiltration](https://arxiv.org/abs/2401.00894) [arXiv 2024]
 - [Balancing Multimodal Learning via Online Logit Modulation](#) [IJCAI 2024]
 - [Enhancing Unimodal Features Matters: A Multimodal Framework for Building Extraction](https://ieeexplore.ieee.org/abstract/document/10507075?casa_token=av_OHUr3Bf8AAAAA:C2AQ5u6QzAVsapGKcq2xdhykxnCpZea9dByuwkgdc1eHJSap8MQp5RYv2fD1Mdw7H4HZrKMhAXI) [TGRS 2024]
-
+- [Multimodal Representation Learning by Alternating Unimodal Adaptation](https://arxiv.org/abs/2311.10707) \[CVPR2024]
+- [Understanding Unimodal Bias in Multimodal Deep Linear Networks](https://arxiv.org/abs/2312.00935) \[ICML2024]
