@@ -77,4 +77,5 @@ A curated list of balanced multimodal learning methods.
 - [Multimodal Representation Learning by Alternating Unimodal Adaptation](https://arxiv.org/abs/2311.10707) \[CVPR 2024]
 - [Understanding Unimodal Bias in Multimodal Deep Linear Networks](https://arxiv.org/abs/2312.00935) \[ICML 2024]
 - [Ada2I: Enhancing Modality Balance for Multimodal Conversational Emotion Recognition](https://arxiv.org/abs/2408.12895) \[ACM MM 2024]
-- [Modality-Balanced Learning for Multimedia Recommendation](https://arxiv.org/abs/2408.06360) \[ACM MM(Oral) 2024]
+- [Modality-Balanced Learning for Multimedia Recommendation](https://arxiv.org/abs/2408.06360) \[ACM MM 2024]
+- [ReconBoost: Boosting Can Achieve Modality Reconcilement.](https://arxiv.org/pdf/2405.09321) \[ICML 2024]
