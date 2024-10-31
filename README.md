@@ -58,6 +58,7 @@ A curated list of balanced multimodal learning methods.
 - [Delving into Deep Imbalanced Regression](https://arxiv.org/abs/2102.09554) \[ICML2021]
 - [Characterizing and Overcoming the Greedy Nature of Learning in Multi-modal Deep Neural Networks](https://proceedings.mlr.press/v162/wu22d/wu22d.pdf) [ICML 2022]
 - [MCL: A Contrastive Learning Method for Multimodal Data Fusion in Violence Detection](https://ieeexplore.ieee.org/document/9976192) [IEEE Signal Processing Letters 2022]
+- [Balanced MSE for Imbalanced Visual Regression](https://openaccess.thecvf.com/content/CVPR2022/html/Ren_Balanced_MSE_for_Imbalanced_Visual_Regression_CVPR_2022_paper.html)[CVPR2022]
 - [On Uni-Modal Feature Learning in Supervised Multi-Modal Learning](https://proceedings.mlr.press/v202/du23e/du23e.pdf) [ICML 2023]
 - [Multimodal Pre-Training with Self-Distillation for Product Understanding in E-Commerce](https://dl.acm.org/doi/10.1145/3539597.3570423) [WSDM 2023]
 - [PMR: Prototypical Modal Rebalance for Multimodal Learning](https://openaccess.thecvf.com/content/CVPR2023/papers/Fan_PMR_Prototypical_Modal_Rebalance_for_Multimodal_Learning_CVPR_2023_paper.pdf) [CVPR 2023]
