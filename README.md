@@ -80,3 +80,4 @@ A curated list of balanced multimodal learning methods.
 - [Ada2I: Enhancing Modality Balance for Multimodal Conversational Emotion Recognition](https://arxiv.org/abs/2408.12895) \[ACM MM 2024]
 - [Modality-Balanced Learning for Multimedia Recommendation](https://arxiv.org/abs/2408.06360) \[ACM MM 2024]
 - [ReconBoost: Boosting Can Achieve Modality Reconcilement.](https://arxiv.org/pdf/2405.09321) \[ICML 2024]
+- [Classifier-guided Gradient Modulation for Enhanced Multimodal Learning](https://arxiv.org/abs/2411.01409) \[arXiv 2024]
