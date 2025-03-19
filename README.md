@@ -1,6 +1,13 @@
 # Balanced Multimodal Learning
 A curated list of balanced multimodal learning methods.
 
+# News
+We have a discussion group about balanced multimodal learning. Anyone who may be interested is welcome! If the QR code expires, please add us on WeChat (ID: weike0409) and include a note saying “BML community.”
+ 
+<img src="qrcode.jpeg"  width="200" />
+
+
+
 
 # Table of contents
 - [Balanced Multimodal Learning](#balanced-multimodal-learning)
