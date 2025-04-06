@@ -55,6 +55,12 @@ We have a discussion group about balanced multimodal learning. Anyone who may be
 <br>
 **[Code](https://github.com/GeWu-Lab/Diagnosing_Relearning_ECCV2024)**
 
+**[CVPR-2025]**
+<br>
+[Adaptive Unimodal Regulation for Balanced Multimodal Information Acquisition](https://arxiv.org/abs/2503.18595) 
+<br>
+**[Code](https://github.com/GeWu-Lab/InfoReg_CVPR2025)**
+
 
 ## Other balanced multimodal learning methods
 
