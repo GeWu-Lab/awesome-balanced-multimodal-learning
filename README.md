@@ -99,3 +99,4 @@ We have a discussion group about balanced multimodal learning. Anyone who may be
 - [ReconBoost: Boosting Can Achieve Modality Reconcilement.](https://arxiv.org/pdf/2405.09321) \[ICML 2024]
 - [Classifier-guided Gradient Modulation for Enhanced Multimodal Learning](https://arxiv.org/abs/2411.01409) \[arXiv 2024]
 - [DynCIM: Dynamic Curriculum for Imbalanced Multimodal Learning](http://arxiv.org/abs/2503.06456) \[arXiv 2025]
+- [Rethinking Multimodal Learning from the Perspective of Mitigating Classification Ability Disproportion](https://arxiv.org/abs/2502.20120) \[arXiv 2025]
