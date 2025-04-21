@@ -86,6 +86,7 @@ We have a discussion group about balanced multimodal learning. Anyone who may be
 - [Improving Multimodal Learning with Multi-Loss Gradient Modulation](https://arxiv.org/abs/2405.07930) [arXiv 2024]
 - [Learning to Rebalance Multi-Modal Optimization by Adaptively Masking Subnetworks](https://arxiv.org/abs/2404.08347) [arXiv 2024]
 - [Suppress and Rebalance: Towards Generalized Multi-Modal Face Anti-Spoofing](https://openaccess.thecvf.com/content/CVPR2024/html/Lin_Suppress_and_Rebalance_Towards_Generalized_Multi-Modal_Face_Anti-Spoofing_CVPR_2024_paper.html) [CVPR 2024]
+- [C2KD: Bridging the Modality Gap for Cross-Modal Knowledge Distillation](https://openaccess.thecvf.com/content/CVPR2024/html/Huo_C2KD_Bridging_the_Modality_Gap_for_Cross-Modal_Knowledge_Distillation_CVPR_2024_paper.html) [CVPR 2024]
 - [Balanced Multi-modal Federated Learning via Cross-Modal Infiltration](https://arxiv.org/abs/2401.00894) [arXiv 2024]
 - [Balancing Multimodal Learning via Online Logit Modulation](#) [IJCAI 2024]
 - [Enhancing Unimodal Features Matters: A Multimodal Framework for Building Extraction](https://ieeexplore.ieee.org/abstract/document/10507075?casa_token=av_OHUr3Bf8AAAAA:C2AQ5u6QzAVsapGKcq2xdhykxnCpZea9dByuwkgdc1eHJSap8MQp5RYv2fD1Mdw7H4HZrKMhAXI) [TGRS 2024]
