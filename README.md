@@ -15,6 +15,7 @@ We have a discussion group about balanced multimodal learning. Anyone who may be
 - [Table of contents](#table-of-contents)
   - [GeWu-Lab paper](#gewu-lab-paper)
   - [Other balanced multimodal learning methods](#other-balanced-multimodal-learning-methods)
+  - [Methodology Classification (Refer to the paper BalanceBenchmark)](#methodology-classification-refer-to-the-paper-balancebenchmark)
 
 
 
