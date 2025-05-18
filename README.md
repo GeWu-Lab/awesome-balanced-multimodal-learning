@@ -4,7 +4,7 @@ A curated list of balanced multimodal learning methods.
 # News
 We have a discussion group about balanced multimodal learning. Anyone who may be interested is welcome! If the QR code expires, please add us on WeChat (ID: weike0409) and include a note saying “BML community.”
  
-<img src="IMG_9576.JPG"  width="200" />
+<img src="IMG_9679.JPG"  width="200" />
 
 
 
@@ -16,6 +16,10 @@ We have a discussion group about balanced multimodal learning. Anyone who may be
   - [GeWu-Lab paper](#gewu-lab-paper)
   - [Other balanced multimodal learning methods](#other-balanced-multimodal-learning-methods)
   - [Methodology Classification (Refer to the paper BalanceBenchmark)](#methodology-classification-refer-to-the-paper-balancebenchmark)
+    - [Data](#data)
+    - [Feed-forward](#feed-forward)
+    - [Objective](#objective)
+    - [Optimization](#optimization)
 
 
 
