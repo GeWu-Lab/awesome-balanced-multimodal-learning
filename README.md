@@ -137,7 +137,12 @@ You are also welcome to join our Slack workspace: https://join.slack.com/t/balan
 - [PMR: Prototypical Modal Rebalance for Multimodal Learning](https://openaccess.thecvf.com/content/CVPR2023/papers/Fan_PMR_Prototypical_Modal_Rebalance_for_Multimodal_Learning_CVPR_2023_paper.pdf) [CVPR 2023]
 - [Diagnosing and Re-learning for Balanced Multimodal Learning](https://arxiv.org/abs/2407.09705) [ECCV2024]
 - [ReconBoost: Boosting Can Achieve Modality Reconcilement.](https://arxiv.org/pdf/2405.09321) \[ICML 2024]
+- 
 
+## BML in MLLMs
+
+- [MokA: Multimodal Low-Rank Adaptation for MLLMs](https://arxiv.org/abs/2506.05191) \[arXiv 2025]
+- [Fork-Merge Decoding: Enhancing Multimodal Understanding in Audio-Visual Large Language Models](https://arxiv.org/pdf/2505.20873) \[arXiv 2025]
 
 
 
