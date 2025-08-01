@@ -6,8 +6,7 @@ We have a discussion group about balanced multimodal learning. Anyone who may be
  
 <img src="IMG_0918.JPG"  width="200" />
 
-
-
+You are also welcome to join our Slack workspace: https://join.slack.com/t/balancedmulti-mhs9373/shared_invite/zt-3aj46comq-CNWrkqqGI9Z2kNn64aU9FQ
 
 # Table of contents
 - [Balanced Multimodal Learning](#balanced-multimodal-learning)
