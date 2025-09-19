@@ -2,9 +2,8 @@
 A curated list of balanced multimodal learning methods.
 
 # News
-We have a discussion group about balanced multimodal learning. Anyone who may be interested is welcome! If the QR code expires, please add us on WeChat (ID: weike0409) and include a note saying “BML community.”
- 
-<img src="IMG_0918.JPG"  width="200" />
+We have a WeChat group about balanced multimodal learning. Anyone who may be interested is welcome! Since the number of participants has reached the limit for QR code invitations, please add us on WeChat (ID: weike0409) and include a note saying “BML community.”
+
 
 You are also welcome to join our Slack workspace: https://join.slack.com/t/balancedmulti-mhs9373/shared_invite/zt-3aj46comq-CNWrkqqGI9Z2kNn64aU9FQ
 
