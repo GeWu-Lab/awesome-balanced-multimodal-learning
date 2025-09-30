@@ -143,7 +143,7 @@ https://wj.qq.com/s2/24062432/059a/
 
 ## BML in MLLMs
 
-- [MokA: Multimodal Low-Rank Adaptation for MLLMs](https://arxiv.org/abs/2506.05191) \[arXiv 2025]
+- [MokA: Multimodal Low-Rank Adaptation for MLLMs](https://arxiv.org/abs/2506.05191) \[NIPS 2025]
 - [Fork-Merge Decoding: Enhancing Multimodal Understanding in Audio-Visual Large Language Models](https://arxiv.org/pdf/2505.20873) \[arXiv 2025]
 
 
