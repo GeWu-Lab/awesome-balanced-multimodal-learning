@@ -7,9 +7,6 @@ A curated list of balanced multimodal learning methods.
 - You are also welcome to join our Slack workspace: https://join.slack.com/t/balancedmulti-mhs9373/shared_invite/zt-3aj46comq-CNWrkqqGI9Z2kNn64aU9FQ
 
 
-
-https://wj.qq.com/s2/24062432/059a/
-
 # Table of contents
 - [Balanced Multimodal Learning](#balanced-multimodal-learning)
 - [News](#news)
