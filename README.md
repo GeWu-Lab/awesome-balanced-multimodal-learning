@@ -152,7 +152,7 @@ A curated list of balanced multimodal learning methods.
 
 - [MokA: Multimodal Low-Rank Adaptation for MLLMs](https://arxiv.org/abs/2506.05191) \[NIPS 2025]
 - [Fork-Merge Decoding: Enhancing Multimodal Understanding in Audio-Visual Large Language Models](https://arxiv.org/pdf/2505.20873) \[arXiv 2025]
-- [Generalizing from SIMPLE to HARD Visual Reasoning: Can We Mitigate Modality Imbalance in VLMs?] \[arXiv 2025]
+- [Generalizing from SIMPLE to HARD Visual Reasoning: Can We Mitigate Modality Imbalance in VLMs?](https://arxiv.org/abs/2501.02669) \[arXiv 2025]
 
 
 
