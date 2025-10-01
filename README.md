@@ -104,6 +104,16 @@ A curated list of balanced multimodal learning methods.
 - [Classifier-guided Gradient Modulation for Enhanced Multimodal Learning](https://arxiv.org/abs/2411.01409) \[arXiv 2024]
 - [DynCIM: Dynamic Curriculum for Imbalanced Multimodal Learning](http://arxiv.org/abs/2503.06456) \[arXiv 2025]
 - [Rethinking Multimodal Learning from the Perspective of Mitigating Classification Ability Disproportion](https://arxiv.org/abs/2502.20120) \[arXiv 2025]
+- [Asymmetric Reinforcing Against Multi-Modal Representation Bias](https://arxiv.org/abs/2501.01240) \[AAAI 2025]
+- [Spiking Neural Networks with Temporal Attention-Guided Adaptive Fusion for imbalanced Multi-modal Learning](https://arxiv.org/abs/2505.14535) \[arXiv 2025]
+- [Reliable and Balanced Transfer Learning for Generalized Multimodal Face Anti-Spoofing](https://ieeexplore.ieee.org/abstract/document/11015656) \[TPAMI 2025]
+- [Shaping Initial State Prevents Modality Competition in Multi-modal Fusion: A Two-stage Scheduling Framework via Fast Partial Information Decomposition](https://arxiv.org/abs/2509.20840) \[arXiv 2025]
+- [AIM: Adaptive Intra-Network Modulation for Balanced Multimodal Learning](https://arxiv.org/abs/2508.19769) \[arXiv 2025]
+- [Balanced Multimodal Learning: An Unidirectional Dynamic Interaction Perspective](https://arxiv.org/abs/2509.02281) \[arXiv 2025]
+- [DMAF-Net: An Effective Modality Rebalancing Framework for Incomplete Multi-Modal Medical Image Segmentation](https://arxiv.org/abs/2506.11691) \[arXiv 2025]
+- [Towards Explainable Fusion and Balanced Learning in Multimodal Sentiment Analysis](https://arxiv.org/abs/2504.12151) \[arXiv 2025]
+- [Learning Optimal Multimodal Information Bottleneck Representations](https://arxiv.org/abs/2505.19996) \[arXiv 2025]
+- [Modality Equilibrium Matters: Minor-Modality-Aware Adaptive Alternating for Cross-Modal Memory Enhancement](https://arxiv.org/abs/2506.00030) \[arXiv 2025]
 
 ## Methodology Classification (Refer to the paper [BalanceBenchmark](https://arxiv.org/abs/2502.10816))
 
@@ -142,6 +152,7 @@ A curated list of balanced multimodal learning methods.
 
 - [MokA: Multimodal Low-Rank Adaptation for MLLMs](https://arxiv.org/abs/2506.05191) \[NIPS 2025]
 - [Fork-Merge Decoding: Enhancing Multimodal Understanding in Audio-Visual Large Language Models](https://arxiv.org/pdf/2505.20873) \[arXiv 2025]
+- [Generalizing from SIMPLE to HARD Visual Reasoning: Can We Mitigate Modality Imbalance in VLMs?] \[arXiv 2025]
 
 
 
