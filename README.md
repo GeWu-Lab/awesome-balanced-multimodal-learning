@@ -114,6 +114,7 @@ A curated list of balanced multimodal learning methods.
 - [Towards Explainable Fusion and Balanced Learning in Multimodal Sentiment Analysis](https://arxiv.org/abs/2504.12151) \[arXiv 2025]
 - [Learning Optimal Multimodal Information Bottleneck Representations](https://arxiv.org/abs/2505.19996) \[arXiv 2025]
 - [Modality Equilibrium Matters: Minor-Modality-Aware Adaptive Alternating for Cross-Modal Memory Enhancement](https://arxiv.org/abs/2506.00030) \[arXiv 2025]
+- [MIDAS: Misalignment-based Data Augmentation Strategy for Imbalanced Multimodal Learning](https://arxiv.org/abs/2509.25831) \[arXiv 2025]
 
 ## Methodology Classification (Refer to the paper [BalanceBenchmark](https://arxiv.org/abs/2502.10816))
 
