@@ -2,7 +2,6 @@
 A curated list of balanced multimodal learning methods.
 
 # News
-- 我们计划近期（2025年10月上旬）在线上举办一次BML相关研究的workshop。目前正在征集讲者阶段，欢迎各位同学填写下方问卷报名参加，分享自己的成果！https://wj.qq.com/s2/24062432/059a/
 - We have a WeChat group about balanced multimodal learning. Anyone who may be interested is welcome! Since the number of participants has reached the limit for QR code invitations, please add us on WeChat (ID: weike0409) and include a note saying “BML community.”
 - You are also welcome to join our Slack workspace: https://join.slack.com/t/balancedmulti-mhs9373/shared_invite/zt-3aj46comq-CNWrkqqGI9Z2kNn64aU9FQ
 
