@@ -2,7 +2,10 @@
 A curated list of balanced multimodal learning methods.
 
 # News
-- We have a WeChat group about balanced multimodal learning. Anyone who may be interested is welcome! Since the number of participants has reached the limit for QR code invitations, please add us on WeChat (ID: weike0409) and include a note saying “BML community.”
+- We have a WeChat group about balanced multimodal learning. Anyone who may be interested is welcome! If the QR code is expired, please add us on WeChat (ID: weike0409) and include a note saying “BML community.”
+<img src="IMG_0492.JPG" width="50%">
+
+
 - You are also welcome to join our Slack workspace: https://join.slack.com/t/balancedmulti-mhs9373/shared_invite/zt-3aj46comq-CNWrkqqGI9Z2kNn64aU9FQ
 
 
@@ -17,6 +20,7 @@ A curated list of balanced multimodal learning methods.
     - [Feed-forward](#feed-forward)
     - [Objective](#objective)
     - [Optimization](#optimization)
+  - [BML in MLLMs](#bml-in-mllms)
 
 
 
